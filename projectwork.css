@@ -1,0 +1,54 @@
+.h1h1
+{
+    font-size: 60px;
+    margin-left: 100px;
+    
+}
+.d-block
+{
+    height: 750px;
+}
+.h4h1
+{
+    color: white;
+    margin-bottom: 200px;
+}
+.card-link
+{
+    color:blue;
+}
+.card-link:hover
+{
+    color: red;
+}
+/* .card-body
+{
+    color: azure;
+    background-color: black;
+}
+.lap
+{
+    background-color: black;
+} */
+.card-img-tops
+{
+    height: 600px;
+}
+body
+{
+background-color:black;
+}
+.dc
+{
+    width: 10%;
+    height: 500px;
+    background-color: aqua;
+}
+.bu
+{
+    margin-left: 82%;
+}
+#ae:hover
+{
+    color:red;
+}
